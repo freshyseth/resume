@@ -69,7 +69,7 @@ Developed and committed features for the SaaS
 ## Founder / Owner
 ### FreshNet, LLC dba RedHouseSoul
 Bedford TX // 2006 - Current
-#### 2006-2011: Software Consulting and Development for Micro to Small Businesses
+#### 2006-2011: Software Consulting and Development
 - Architected and implemented online strategies for clients
 - Strategized and executed large-scale email campaigns including subject line testing, open rate testing, click rates, and list segmentation for improved campaign conversions
 - Consulted and coordinated efforts including analytics, A/B and multivariate testing (all Google tools), landing page optimization, and ecommerce conversion
@@ -80,19 +80,18 @@ Bedford TX // 2006 - Current
 Approached by the CEO of a multi-million dollar corporation to assist in a million-dollar startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a functioning and intelligent solution. I developed the application from idea to launch in both the Apple iOS and Google Play stores, managing a remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
 
 ## Certifications / Credentials
-#### CERTIFIED SAFe AGILIST
+#### Certified SAFe Agilist
 http://bit.ly/2JO4q9t
 
-#### CERTIFIED SCRUM PRODUCT OWNER by Scrum Alliance
+#### Certified Scrum Product Owner
+Trained by Mike Cohn and Certified by Scrum Alliance
 http://bit.ly/2HCJKQT
 
-#### CO-ORGANIZER of LaravelDFW
+#### Co-Organizer of LaravelDFW
 https://www.laraveldfw.com/
 
 http://bit.ly/2qyIKWB
-
-
-#### PHP CERTIFIED ENGINEER by Zend
+#### PHP Certified Engineer by Zend
 http://bit.ly/2HqvLjv
 
 ## Social Networks
