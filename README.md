@@ -85,12 +85,14 @@ http://bit.ly/2JO4q9t
 
 #### Certified Scrum Product Owner
 Trained by Mike Cohn and Certified by Scrum Alliance
+
 http://bit.ly/2HCJKQT
 
 #### Co-Organizer of LaravelDFW
 https://www.laraveldfw.com/
 
 http://bit.ly/2qyIKWB
+
 #### PHP Certified Engineer by Zend
 http://bit.ly/2HqvLjv
 
