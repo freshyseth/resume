@@ -65,3 +65,25 @@ Bedford TX // 2006 - Current
 
 #### 2014-2016: Hybrid Mobile App
 Approached by the CEO of a multi-million dollar corporation to assist in a million-dollar startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a functioning and intelligent solution. I developed the application from idea to launch in both the Apple iOS and Google Play stores, managing a remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
+
+## Certifications / Credentials
+#### CERTIFIED SAFe AGILIST
+http://bit.ly/2JO4q9t
+
+#### CERTIFIED SCRUM PRODUCT OWNER by Scrum Alliance
+http://bit.ly/2HCJKQT
+
+#### CO-ORGANIZER of LaravelDFW
+https://www.laraveldfw.com/
+
+http://bit.ly/2qyIKWB
+
+
+#### PHP CERTIFIED ENGINEER by Zend
+http://bit.ly/2HqvLjv
+
+## Social Networks
+#### LinkedIn
+https://www.linkedin.com/in/freshyseth
+#### Twitter
+https://twitter.com/freshyseth
