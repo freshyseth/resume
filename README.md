@@ -96,6 +96,11 @@ http://bit.ly/2qyIKWB
 #### PHP Certified Engineer by Zend
 http://bit.ly/2HqvLjv
 
+#### Published Author
+***Can Stepfamilies be Done Right?*** Co-authored with Joann C. Webster
+
+http://bit.ly/2EMMgkE
+
 ## Social Networks
 #### LinkedIn
 https://www.linkedin.com/in/freshyseth
