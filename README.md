@@ -1,10 +1,23 @@
 # SETH WEBSTER
 (aka freshyseth)
-###### Culture Leader | freshyseth@gmail.com | 817-239-7741
+#### Culture Leader | freshyseth@gmail.com | 817-239-7741
 Passionately striving for a culture of engagement, learning, and growth while focusing on the continual delivery of quality, beautiful, and pleasant software.
 ## Manager of Software Development
+### Wolters Kluwer
+Irving TX // 2017 - Present
+- Manage a team of several software engineers and quality assurance engineers responsible for Tax Project Management application
+- Report directly to the Director of Software Development, recruit, and hire qualified and knowledgeable software engineers to improve production, quality and efficiency.
+- Regular 1:1’s
+- SAFe Scrum development is tracked through Scrum artifacts:
+ - Big Room Planning for Release Trains and Product Increments
+ - Velocity (using story points and commitment-based planning)
+ - Retrospectives
+ - Peer to peer
+ - Code reviews
+
+## Manager of Software Development
 ### eMortgage Logic an Assurant Company
-N. Richland Hills TX // 2012 - Present
+N. Richland Hills TX // 2012 - 2016
 - Manage a team of several software engineers (UI/UX/Front-end, Javascript: Ext JS, Angular JS, HTML5, CSS3, Sass and Backend, LAMP Stack) responsible for SaaS Mortgage Solutions web applications
 - Reporting directly to CIO, recruited and hired qualified and knowledgeable software engineers to improve production, quality and efficiency.
 - Introduced modern testing techniques (Siesta, Selenium, and Sauce Labs) to allow for cross-browser compatibility testing
