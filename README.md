@@ -11,36 +11,8 @@ Improving team dynamics, Agile maturity, and product ownership have been the maj
 ## Manager of Software Development
 ### eMortgage Logic an Assurant Company
 N. Richland Hills TX // 2012 - 2016
-- Manage a team of several software engineers (UI/UX/Front-end, Javascript: Ext JS, Angular JS, HTML5, CSS3, Sass and Backend, LAMP Stack) responsible for SaaS Mortgage Solutions web applications
-- Reporting directly to CIO, recruited and hired qualified and knowledgeable software engineers to improve production, quality and efficiency.
-- Introduced modern testing techniques (Siesta, Selenium, and Sauce Labs) to allow for cross-browser compatibility testing
-- Expanded performance analytics to include the implementation of Dynatrace
- - Resourced and managed front-end engineer for proof-of-concept implementation with Dynatrace tech resource
- - Collaborated with CIO on determining needs for dev, testing, and production environment licenses; reduced cost by architecting an integration with Assurant corporate; introduced Assurant corporate to Dynatrace UEM through our engagement
- - Worked with DevOps Engineer to implement Dynatrace agents
- - Currently developing strategy for actioning on Dynatrace analytics
-- Managed team of UI/UX Front-end engineers
- - Implemented UI/UX as permanent place in SDLC
- - Introduced MVP approach to development (following Lean UX principles)
-   - Beta testing, usability testing, analytics, quick feedback loops
- - Introduced and encouraged adoption of development best practices
-   - Code formatting
-   - Linting
-   - Unit testing
-   - Functional testing 
-   rack our software engineer performance through a number of methods including:
- - SMART Goals for mid and end year reviews with quarterly reviews
- - Regular 1:1’s
- - Agile Scrum development is tracked through Scrum artifacts:
-   - Velocity (using story points and commitment-based planning)
-   - Retrospectives
-   - Peer to peer
-   - Code reviews
-   - Recognition
-     - Something broke: Bowler Hat (with seg fault on it)
-     - Something awesome: Wizard Hat
-   - Innovation/creativity
-     - First Friday Demo Days
+
+Managed and grew a team of UI/UX engineers, backend engineers (LAMP; P = 'Perl'), and production support agents in the development and support of an enterprise SaaS property valuation platform. The platform was customer-facing, used internally, and licensed to Fannie Mae. Reporting directly to CIO, I recruited, hired, and promoted the growth of software engineers resulting in improving production, quality and efficiency of development and our software. I introduced modern testing techniques (Protractor for Angular 1.x, Siesta for ExtJS, Selenium, and Sauce Labs) to allow for automated cross-browser compatibility testing as part of development and the release pipeline. I expanded performance analytics to include the implementation of Dynatrace. I introduced an MVP approach to development (following Lean UX principles) utilizing beta testing, usability testing, analytics, and quick feedback loops. Additionally, I implemented and evangelized Agile methodologies across the organization.
 
 ## Lead Software Engineer
 ### eMortgage Logic, LLC
