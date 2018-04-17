@@ -5,15 +5,8 @@ Passionately striving for a culture of engagement, learning, and growth while fo
 ## Manager of Software Development
 ### Wolters Kluwer
 Irving TX // 2017 - Present
-- Manage a team of several software engineers and quality assurance engineers responsible for Tax Project Management application
-- Report directly to the Director of Software Development, recruit, and hire qualified and knowledgeable software engineers to improve production, quality and efficiency.
-- Regular 1:1’s
-- SAFe Scrum development is tracked through Scrum artifacts:
- - Big Room Planning for Release Trains and Product Increments
- - Velocity (using story points and commitment-based planning)
- - Retrospectives
- - Peer to peer
- - Code reviews
+
+Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments for the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments. Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Moving Motivators, Happiness Door, STAR-AR (modified), Personal Maps, etc. -- as well as just good old-fashioned fun! This year we're focused on unmasking the mystery of our legacy source code through a Scooby-Doo-themed initiative called "The Mystery Machine!"
 
 ## Manager of Software Development
 ### eMortgage Logic an Assurant Company
