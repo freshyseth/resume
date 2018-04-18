@@ -22,19 +22,10 @@ I introduced modern testing techniques (Protractor for Angular 1.x, Siesta for E
 ## Lead Software Engineer
 ### eMortgage Logic, LLC
 N. Richland Hills TX // 2011- 2012
-- Vetted Javascript framework (Ext JS) for enterprise development
-- Lead Software Engineer for new SaaS solution, used by multiple clients including Fannie Mae
-- Managed development of SaaS prototype
-- Pitched SaaS solution to Fannie Mae stakeholders (demo’d prototype)
-- Developed and maintained BRD (Waterfall project) in tandem with Project Manager
-Managed resources, milestones, timelines, and deliverables with Project Manager
-Developed and committed features for the SaaS
-- Introduced and evangelized Agile methodologies (Scrum and Kanban)
- - Made the case for Agile Scrum using SaaS solution SDLC as an example for where we could improve future development
- - Worked with Development Leadership in championing Agile Scrum and Kanban to Executive Leadership
- - Trained and supported employees, including engineers, in company-wide adoption of Agile Scrum and Kanban
- - Received Product Owner Certification (trained with Mike Cohn)
- - Promptly transitioned Product Owner role to Business Unit stakeholders improving the relationship between software engineers and business unit
+
+As Lead Software Engineer I was responsible for vetting and leading a team to implement Sencha's ExtJS framework as the front-end for our enterprise SaaS. Pitched SaaS solution to Fannie Mae stakeholders (demo’d prototype) which led to their licensing of the solution. Developed and maintained BRD (Waterfall project) in tandem with Project Manager. Managed resources, milestones, timelines, and deliverables with Project Manager. Developed and committed features for the SaaS.
+
+I seriously disliked the entire way this project was managed. This led to the R&D, evangelism and subsequent implementation of Agile starting with Scrum and eventually using Kanban as well. I used the SaaS solution's SDLC to demonstrate how Agile could bring improvements to our software and our relationship with Fannie Mae. I trained and supported employees, including engineers, in company-wide adoption of Agile, received Product Owner Certification (trained with Mike Cohn; love him!) and promptly transitioned the product owner role to our business unit stakeholders improving the relationship between software engineers, the business unit, and Fannie Mae.
 
 ## Founder / Owner
 ### FreshNet, LLC dba RedHouseSoul
