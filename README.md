@@ -30,12 +30,11 @@ I seriously disliked the entire way this project was managed. This led to the R&
 ## Founder / Owner
 ### FreshNet, LLC dba RedHouseSoul
 Bedford TX // 2006 - Current
-#### 2006-2011: Software Consulting and Development
-- Architected and implemented online strategies for clients
-- Strategized and executed large-scale email campaigns including subject line testing, open rate testing, click rates, and list segmentation for improved campaign conversions
-- Consulted and coordinated efforts including analytics, A/B and multivariate testing (all Google tools), landing page optimization, and ecommerce conversion
-- Project management of up to 3 concurrent teams of contractors for design and development of client websites and online strategies
-- Worked with Ukrainian, Vietnamese, and US-based developers
+
+#### 2006-Present: Software Consulting and Development
+Implemented a POS system for a brick-and-mortar retail store -- specializing solely in Star Wars collectibles and toys -- using Shopify.
+
+Architected and developed an MVP for an online Media Center. The MVP was to introduce a monthly donation-based premium content site serving videos to donors.
 
 #### 2014-2016: Hybrid Mobile App
 Approached by the CEO of a multi-million dollar corporation to assist in a million-dollar startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a functioning and intelligent solution. I developed the application from idea to launch in both the Apple iOS and Google Play stores, managing a remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
