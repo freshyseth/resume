@@ -7,7 +7,7 @@ Passionately evangelizing and encouraging a culture of engagement, learning, and
 ### Wolters Kluwer
 Irving TX // 2017 - Present
 
-Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments for the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
+Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments of the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
 
 Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Moving Motivators, Happiness Door, STAR-AR (modified), Personal Maps, etc. -- as well as just good old-fashioned fun! Additionally, we're undertaking an initiative focused on unmasking the mystery of our legacy source code through a Scooby-Doo-themed initiative called "The Mystery Machine!"
 
@@ -15,7 +15,7 @@ Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Movin
 ### eMortgage Logic an Assurant Company
 N. Richland Hills TX // 2012 - 2016
 
-Managed and grew a team of UI/UX engineers, backend engineers (LAMP; P = 'Perl'), and production support agents in the development and support of an enterprise SaaS property valuation platform. The platform was customer-facing, used internally, and licensed to Fannie Mae. Reporting directly to CIO, I recruited, hired, and promoted the growth of software engineers resulting in improving production, quality and efficiency of development and our software.
+Managed and grew a team of UI/UX engineers, backend engineers (LAMP; P = 'Perl'), and production support agents in the development and support of an enterprise SaaS property valuation platform. The platform was customer-facing, used internally, and licensed to Fannie Mae. Reporting directly to CIO, I recruited, hired, and promoted the growth of software engineers resulting in improving production, quality, and efficiency of development and our software.
 
 I introduced modern testing techniques (Protractor for Angular 1.x, Siesta for ExtJS, Selenium, and Sauce Labs) to allow for automated cross-browser compatibility testing as part of development and the release pipeline. I expanded performance analytics to include the implementation of Dynatrace. I introduced an MVP approach to development (following Lean UX principles) utilizing beta testing, usability testing, analytics, and quick feedback loops. Additionally, I implemented and evangelized Agile methodologies across the organization.
 
@@ -23,9 +23,9 @@ I introduced modern testing techniques (Protractor for Angular 1.x, Siesta for E
 ### eMortgage Logic, LLC
 N. Richland Hills TX // 2011- 2012
 
-As Lead Software Engineer I was responsible for vetting and leading a team to implement Sencha's ExtJS framework as the front-end for our enterprise SaaS. Pitched SaaS solution to Fannie Mae stakeholders (demo’d prototype) which led to their licensing of the solution. Developed and maintained BRD (Waterfall project) in tandem with Project Manager. Managed resources, milestones, timelines, and deliverables with Project Manager. Developed and committed features for the SaaS.
+As Lead Software Engineer, I was responsible for vetting and leading a team to implement Sencha's ExtJS framework as the front-end for our enterprise SaaS. Pitched SaaS solution to Fannie Mae stakeholders (demo’d prototype) which led to their licensing of the solution. Developed and maintained BRD (Waterfall project) in tandem with Project Manager. Managed resources, milestones, timelines, and deliverables with Project Manager. Developed and committed features for the SaaS.
 
-I seriously disliked the entire way this project was managed. This led to the R&D, evangelism and subsequent implementation of Agile starting with Scrum and eventually using Kanban as well. I used the SaaS solution's SDLC to demonstrate how Agile could bring improvements to our software and our relationship with Fannie Mae. I trained and supported employees, including engineers, in company-wide adoption of Agile, received Product Owner Certification (trained with Mike Cohn; love him!) and promptly transitioned the product owner role to our business unit stakeholders improving the relationship between software engineers, the business unit, and Fannie Mae.
+I seriously disliked the entire way this project was managed. This led to the R&D, evangelism and subsequent implementation of Agile starting with Scrum and eventually using Kanban as well. I used the SaaS solution's SDLC to demonstrate how Agile could bring improvements to our software and our relationship with Fannie Mae. I trained and supported employees, including engineers, in the company-wide adoption of Agile, received Product Owner Certification (trained with Mike Cohn; love him!) and promptly transitioned the product owner role to our business unit stakeholders improving the relationship between software engineers, the business unit, and Fannie Mae.
 
 ## Founder / Owner
 ### FreshNet, LLC dba RedHouseSoul
