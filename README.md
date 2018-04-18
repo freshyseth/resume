@@ -7,7 +7,9 @@ Passionately evangelizing and encouraging a culture of engagement, learning, and
 ### Wolters Kluwer
 Irving TX // 2017 - Present
 
-Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments for the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments. Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Moving Motivators, Happiness Door, STAR-AR (modified), Personal Maps, etc. -- as well as just good old-fashioned fun! This year we're focused on unmasking the mystery of our legacy source code through a Scooby-Doo-themed initiative called "The Mystery Machine!"
+Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments for the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
+
+Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Moving Motivators, Happiness Door, STAR-AR (modified), Personal Maps, etc. -- as well as just good old-fashioned fun! Additionally, we're undertaking an initiative focused on unmasking the mystery of our legacy source code through a Scooby-Doo-themed initiative called "The Mystery Machine!"
 
 ## Manager of Software Development
 ### eMortgage Logic an Assurant Company
