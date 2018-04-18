@@ -1,7 +1,8 @@
 # SETH WEBSTER
 (aka freshyseth)
-#### Culture Leader | freshyseth@gmail.com | 817-239-7741
-Passionately evangelizing and encouraging a culture of engagement, learning, and growth in order to ensure the continual delivery of quality, beautiful, and pleasant software and careers.
+#### Culture Leader | [freshyseth@gmail.com](mailto:freshyseth@gmail.com) | 817-239-7741
+Passionately evangelizing and encouraging a culture of engagement, learning, and growth in order to ensure the continual delivery of quality, beautiful, and pleasant software and careers. *While I do my best to share some information about me with this resume we really just need to talk. Hit me up!*
+
 ## Manager of Software Development
 ### Wolters Kluwer
 Irving TX // 2017 - Present
