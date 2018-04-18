@@ -101,7 +101,3 @@ I served as a technical consultant and product owner for a mobile app startup. W
 - [*Drive*](https://amzn.to/2HzaLan), [*Switch*](https://amzn.to/2HaNrfJ), [*Made to Stick*](https://amzn.to/2HJmFfF), [*Antifragile*](https://amzn.to/2vr7CEM)
 - [*How to Win Friends and Influence People*](https://amzn.to/2vqJSk6)
 - Even more on my reading list! Click on a book above and buy it if you haven't read it! You'll love it! Plus it's a way *I can get paid even if you don't hire me! Woot!*
-
-## Social Networks
-#### [LinkedIn](https://www.linkedin.com/in/freshyseth)
-#### [Twitter](https://twitter.com/freshyseth)
