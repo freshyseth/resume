@@ -37,7 +37,7 @@ Implemented a POS system for a brick-and-mortar retail store -- specializing sol
 Architected and developed an MVP for an online Media Center. The MVP was to introduce a monthly donation-based premium content site serving videos to donors.
 
 #### 2014-2016: Hybrid Mobile App
-Approached by the CEO of a multi-million dollar corporation to assist in a million-dollar startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a functioning and intelligent solution. I developed the application from idea to launch in both the Apple iOS and Google Play stores, managing a remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
+I served as a technical consultant and product owner for a mobile app startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a hybrid mobile app using Ionic and Cordova. I was responsible for all the technical aspects of the application from idea to launch in both the Apple iOS and Google Play stores, managing a fully remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
 
 ## Certifications / Credentials
 #### Certified SAFe Agilist
