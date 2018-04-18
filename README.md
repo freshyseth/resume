@@ -108,7 +108,5 @@ Trained by Mike Cohn and Certified by Scrum Alliance.
 - Click on the books above and buy it if you haven't read it! You'll love it! Plus it's a way I can get paid even if you don't hire me! Woot!
 
 ## Social Networks
-#### LinkedIn
-https://www.linkedin.com/in/freshyseth
-#### Twitter
-https://twitter.com/freshyseth
+#### [LinkedIn](https://www.linkedin.com/in/freshyseth)
+#### [Twitter](https://twitter.com/freshyseth)
