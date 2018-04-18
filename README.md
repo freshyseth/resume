@@ -52,7 +52,7 @@ Trained by Mike Cohn and Certified by Scrum Alliance.
 #### [PHP Certified Engineer by Zend](http://bit.ly/2HqvLjv)
 
 #### Published Author
-[***Can Stepfamilies be Done Right?***](http://bit.ly/2EMMgkE) Co-authored with Joann C. Webster
+[***Can Stepfamilies be Done Right?*** Co-authored with Joann C. Webster](http://bit.ly/2EMMgkE)
 
 ## Buzz Words and Bullet Points
 #### Agile Experience
@@ -61,25 +61,30 @@ Trained by Mike Cohn and Certified by Scrum Alliance.
 - Kanban
 
 #### Technologies I've Worked With
-- UI/UX - Javascript and CSS Frameworks
- - ExtJS, AngularJS, Angular, Node, Sass
-- Backend - Programming Languages and Frameworks
+##### UI/UX - Javascript and CSS Frameworks
+- ExtJS, AngularJS, Angular, Node, Sass
+
+##### Backend - Programming Languages and Frameworks
  - PHP (Zend, Symfony, Laravel, yes...Wordpress. I know.)
  - Perl (Modern Perl)
  - Node (What? Isn't that Javascript for the browser?)
  - .NET
-- Databases
+
+##### Databases
  - Sybase (Ew, gross! Unless you're using it...then, Ew gross!)
  - Postgres
  - MySQL (with a smattering of MariaDB, but not in production)
  - SQL Server (SPROCS!)
-- Cloud Platforms
+
+##### Cloud Platforms
  - AWS, Azure
-- DevOps tools
+
+##### DevOps tools
  - Jenkins
  - Bamboo
  - CircleCI and Forge (for personal projects in Laravel)
-- Remote collaboration
+
+##### Remote collaboration
  - Google Hangouts
  - Slack (not enterprise)
  - Zoom
