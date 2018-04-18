@@ -40,18 +40,14 @@ Architected and developed an MVP for an online Media Center. The MVP was to intr
 I served as a technical consultant and product owner for a mobile app startup. Working with the stakeholders, I helped determine needs and priorities, vet the idea, set up trademarks, assisted in initial branding, found and engaged development, and properly architected a hybrid mobile app using Ionic and Cordova. I was responsible for all the technical aspects of the application from idea to launch in both the Apple iOS and Google Play stores, managing a fully remote team including developers from Romania, India, Croatia, Costa Rica, and the US.
 
 ## Certifications / Credentials
-#### [Certified SAFe Agilist](http://bit.ly/2JO4q9t)
+[Certified SAFe Agilist](http://bit.ly/2JO4q9t)
 
-#### [Certified Scrum Product Owner](http://bit.ly/2HCJKQT)
-Trained by Mike Cohn and Certified by Scrum Alliance.
+[Certified Scrum Product Owner](http://bit.ly/2HCJKQT)
 
-*That's right! I did two days of training so I'm a professional and know what I'm talking about! You're jealous, I know.*
+[Co-Organizer of LaravelDFW](http://bit.ly/2qyIKWB)
 
-#### [Co-Organizer of LaravelDFW](http://bit.ly/2qyIKWB)
+[PHP Certified Engineer by Zend](http://bit.ly/2HqvLjv)
 
-#### [PHP Certified Engineer by Zend](http://bit.ly/2HqvLjv)
-
-#### Published Author
 [***Can Stepfamilies be Done Right?*** Co-authored with Joann C. Webster](http://bit.ly/2EMMgkE)
 
 ## Buzz Words and Bullet Points
@@ -102,10 +98,9 @@ Trained by Mike Cohn and Certified by Scrum Alliance.
 - [*Tribal Leadership*](https://amzn.to/2Hz9lwz) and [*Delivering Happiness*](https://amzn.to/2EU5rsX)
 - [*The Phoenix Project*](https://amzn.to/2vnOGXp)
 - [*Management 3.0*](https://amzn.to/2HG8w2B) and [*Managing for Happiness*](https://amzn.to/2JRy1yy)
-- [*Drive*](https://amzn.to/2HzaLan), [*Switch*](https://amzn.to/2HaNrfJ), [*Made to Stick*](https://amzn.to/2HJmFfF), [*Antifragile*](https://amzn.to/2vr7CEM) *(I haven't finished this last one, but man!)*
+- [*Drive*](https://amzn.to/2HzaLan), [*Switch*](https://amzn.to/2HaNrfJ), [*Made to Stick*](https://amzn.to/2HJmFfF), [*Antifragile*](https://amzn.to/2vr7CEM)
 - [*How to Win Friends and Influence People*](https://amzn.to/2vqJSk6)
-- Still have a bunch on my reading list (audiobooks, mostly)
-- Click on the books above and buy it if you haven't read it! You'll love it! Plus it's a way I can get paid even if you don't hire me! Woot!
+- Even more on my reading list! Click on a book above and buy it if you haven't read it! You'll love it! Plus it's a way *I can get paid even if you don't hire me! Woot!*
 
 ## Social Networks
 #### [LinkedIn](https://www.linkedin.com/in/freshyseth)
