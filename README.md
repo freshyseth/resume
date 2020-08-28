@@ -16,7 +16,7 @@ Additionally, we support the design and enablement of initiatives like Customer 
 
 ## Manager of Software Development
 ### Wolters Kluwer
-Irving TX // 2017 - Present
+Irving TX // January 2017 - January 2020
 
 Improving team dynamics, Agile maturity, and product ownership have been the major accomplishments of the team over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. Every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
 
