@@ -69,46 +69,50 @@ I served as a technical consultant and product owner for a mobile app startup. W
 
 #### Technologies I've Worked With
 ##### UI/UX - Javascript and CSS Frameworks
-- ExtJS, AngularJS, Angular, Node, Sass
+- Vue, AngularJS, Angular, Node, Sass, ExtJS
 
 ##### Backend - Programming Languages and Frameworks
- - PHP (Zend, Symfony, Laravel, yes...Wordpress. I know.)
+ - PHP (Laravel, Zend, Symfony, Wordpress...yes, I know.)
  - Perl (Modern Perl)
  - Node (What? Isn't that Javascript for the browser?)
  - .NET
 
 ##### Databases
- - Sybase (Ew, gross! Unless you're using it...then, Ew gross!)
- - Postgres
  - MySQL (with a smattering of MariaDB, but not in production)
+ - Postgres
+ - Sybase (Ew, gross! Unless you're using it...then, Ew gross!)
  - SQL Server (SPROCS!)
 
 ##### Cloud Platforms
  - AWS, Azure
 
 ##### DevOps tools
+ - Github and Github Actions
+ - CircleCI and Forge (for personal projects in Laravel)
  - Jenkins
  - Bamboo
- - CircleCI and Forge (for personal projects in Laravel)
 
 ##### Remote collaboration
+ - Atlassian: Jira, Confluence, Service Desk, Trello
+ - Microsoft Teams
  - Google Hangouts
  - Slack (not enterprise)
  - Zoom
- - Trello
- - Confluence (also used Jira and Service Desk by Atlassian)
 
-## Books and Blogs
-#### Blogs/Sites
+## Books, Blogs, and Podcasts
+#### Blogs/Sites/Podcasts
+- [Silicon Valley Product Group](https://svpg.com/)
+- [This is Product Management - Podcast] (https://www.thisisproductmanagement.com/)
 - [Mountain Goat Software](https://www.mountaingoatsoftware.com/)
 - [Atlassian](https://www.atlassian.com/blog)
 - [Management 3.0](https://management30.com/), [Happy Melly](https://www.happymelly.com/)
 - [Code as Craft](https://codeascraft.com/)
 
 #### Books
+- [*Inspired*](https://www.amazon.com/dp/B077NRB36N/ref=cm_sw_em_r_mt_dp_5FosFbGQRSNE7)
 - [*Tribal Leadership*](https://amzn.to/2Hz9lwz) and [*Delivering Happiness*](https://amzn.to/2EU5rsX)
 - [*The Phoenix Project*](https://amzn.to/2vnOGXp)
 - [*Management 3.0*](https://amzn.to/2HG8w2B) and [*Managing for Happiness*](https://amzn.to/2JRy1yy)
 - [*Drive*](https://amzn.to/2HzaLan), [*Switch*](https://amzn.to/2HaNrfJ), [*Made to Stick*](https://amzn.to/2HJmFfF), [*Antifragile*](https://amzn.to/2vr7CEM)
 - [*How to Win Friends and Influence People*](https://amzn.to/2vqJSk6)
-- Even more on my reading list! Click on a book above and buy it if you haven't read it! You'll love it! Plus it's a way *I can get paid even if you don't hire me! Woot!*
+- Even more on my reading list!
