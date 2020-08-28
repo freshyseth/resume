@@ -3,6 +3,17 @@
 #### Culture Leader | [freshyseth@gmail.com](mailto:freshyseth@gmail.com) | 817-239-7741
 Passionately evangelizing and encouraging a culture of engagement, learning, and growth in order to ensure the continual delivery of quality, beautiful, and pleasant software and careers. *While I do my best to share some information about me with this resume we really just need to talk. Hit me up!*
 
+## Digital Product Manager
+### Brinks Home Security
+Farmers Branch, TX // January 2020 - Present
+
+Leading a team of Product Owners representing the Sales and Marketing departments of Brinks Home Security. Our team is responsible for understanding, designing, executing, and delivering the experiences for all core sales channels. From Direct to Consumer Inside Sales (call center for outbound and inbound sales calls) to our growing national Field Sales team to Authorized Representatives I am responsible for the experiences each Sales Representative, and subsequently each Customer, has in originating and closing a Sale.
+
+Enabling the Marketing department with integrations into our customer-facing web properties for analytics as well as data stores for aggregation is a key responsibility. Additionally, working closely with the Sales and Marketing departments to tie our offline events (think sales calls, field appointments, etc.) with our online events to create a full picture of a customer journey.
+
+Additionally, we support the design and enablement of initiatives like Customer Referrals and abstraction of multiple legacy systems for a consolidated Customer view.
+
+
 ## Manager of Software Development
 ### Wolters Kluwer
 Irving TX // 2017 - Present
