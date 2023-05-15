@@ -9,13 +9,33 @@ Passionately evangelizing and encouraging a culture of engagement, learning, and
 ### Brinks Home Security
 Farmers Branch, TX // October 2022 - May 2023
 
-[Details need to go here]
+* Implemented the plan for scaling a Quarterly Cadence to the organization
+  * Successfully ran 3 quarterly plannings with this process realizing improvements each quarter
+* Introduced a hierarchy of organizational work from Strategic Objectives down to User Stories creating a clear line-of-sight from top-level organization objectives to day-to-day work
+* Implemented Quarterly Cadence process (planning and execution) via Miro, Atlassian Jira, and Atlassian Confluence to track work from Initiatives to Epics to Stories
+* Agreed on a plan to implement Strategic Objectives to the Quarterly Cadence through OKRs (Objectives and Key Results)
+* Agreed on a plan to introduce Innovation and Planning to the Quarterly Cadence to allow for improvements to our technology ecosystem and quality of planning as it relates to defining priorities and measuring outcomes
+* Redesigned the IT organization to move Product Owners, Business Analysts, and Project Managers into the Agile Transformation Office and out from under direct IT management
+* Upskilled newly developed team to all operate as Product Owners in a consistent fashion across the organization creating better relationships with Business Stakeholders as well as alignment to the organizations objectives
 
 ## Director, Transformation Office
 ### Brinks Home Security
 Farmers Branch, TX // February 2022 - October 2022
 
-[Details need to go here]
+* Coached Initiatives from Idea to Execution to Measuring Outcomes
+* Focused on Cost Saving Initiatives
+  * Go to Market - Phase 3 - Customer Care - Mas Recurring and Equipment Billing
+  * Go Fast - Commercial Enablement
+  * Reduce Cost-to-Serve - Portal Enhancements [2022.Q2]
+  * IVR For Care
+  * Help Center Redesign
+  * Expand Customer Care Chat via BPO (TCS 3rd Party)
+  * Simplify Chat Experience
+  * Customer Portal and ADC App Integration
+  * Next Best Action: Customer Billing Questions
+* Designed and pitched Quarterly Cadence for scaling Agile to the organization
+* Eliminated waste of extraneous processes that were no longer relevant/effective
+* Coached and mentored a direct report to be my successor as the Digital Product Manager commensurate with my move to this position
 
 ## Digital Product Manager
 ### Brinks Home Security
