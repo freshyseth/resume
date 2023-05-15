@@ -5,7 +5,7 @@ Passionately evangelizing and encouraging a culture of engagement, learning, and
 
 [Download the PDF version of this resume](https://drive.google.com/file/d/11ilOjvl52ovU_9X3ixxbszYm1Yz1zp1U/view?usp=sharing)
 
-## Directory, Agile Transformation Office
+## Director, Agile Transformation Office
 ### Brinks Home Security
 Farmers Branch, TX // October 2022 - May 2023
 
@@ -16,7 +16,7 @@ Farmers Branch, TX // October 2022 - May 2023
 * Agreed on a plan to implement Strategic Objectives to the Quarterly Cadence through OKRs (Objectives and Key Results)
 * Agreed on a plan to introduce Innovation and Planning to the Quarterly Cadence to allow for improvements to our technology ecosystem and quality of planning as it relates to defining priorities and measuring outcomes
 * Redesigned the IT organization to move Product Owners, Business Analysts, and Project Managers into the Agile Transformation Office and out from under direct IT management
-* Upskilled newly developed team to all operate as Product Owners in a consistent fashion across the organization creating better relationships with Business Stakeholders as well as alignment to the organizations objectives
+* Upskilled newly developed team to all operate as Product Owners in a consistent fashion across the organization creating better relationships with Business Stakeholders as well as alignment to the organization's objectives
 
 ## Director, Transformation Office
 ### Brinks Home Security
