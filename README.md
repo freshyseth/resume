@@ -1,7 +1,7 @@
 # SETH WEBSTER
 
 #### Culture Leader | [freshyseth@gmail.com](mailto:freshyseth@gmail.com) | 817-239-7741
-Passionately evangelizing and encouraging a culture of engagement, learning, and growth in order to ensure the continual delivery of quality, beautiful, and pleasant software and careers. *While I do my best to share some information about me with this resume we really should talk. Hit me up!*
+Passionately evangelizing and encouraging a culture of engagement, learning, and growth in order to ensure the continual delivery of quality, beautiful, and pleasant software and careers. *While I do my best to share some information about myself with this resume, we should talk. Hit me up!*
 
 [Download the PDF version of this resume](https://drive.google.com/file/d/11ilOjvl52ovU_9X3ixxbszYm1Yz1zp1U/view?usp=sharing)
 
@@ -32,7 +32,7 @@ Additionally, we support the design and enablement of initiatives like Customer 
 ### Wolters Kluwer
 Irving TX // January 2017 - January 2020
 
-Improving team dynamics, Agile maturity, and product ownership have been the team's major accomplishments over the last year. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. For every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
+The team's major accomplishments over the last year are improving team dynamics, Agile maturity, and product ownership. Early on it was discovered, by gathering data through 1:1's and team meetings, that the team needed to grow in their Agile maturity and ownership. For every Product Increment (SAFe cadence) the team was encouraged to focus on one new major implementation related to Agile. These Agile practices were further reinforced in 1:1's, Iteration Retrospectives, and micro-experiments.
 
 Team dynamics were improved using tools from Management 3.0 -- CHAMPFROGS, Moving Motivators, Happiness Door, STAR-AR (modified), Personal Maps, etc. -- as well as just good old-fashioned fun! Additionally, we're undertaking an initiative focused on unmasking the mystery of our legacy source code through a Scooby-Doo-themed initiative called "The Mystery Machine!"
 
